@@ -1,18 +1,16 @@
 # React + Vite
 
-#SETUP
-
-###yarn
+# SETUP
+### yarn
 > yarn install
 
 > yarn run dev
 
-#Info
-
-###Name
+# Info
+### Name
 > Nguyễn Văn Trúc
 
 > Lớp: Batch-33
 
-#GitHub
+# GitHub
 > git clone https://github.com/mailco1/React_Aptech.git
